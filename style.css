@@ -92,10 +92,10 @@ p{
     color: rgba(255,255,255,0.5);
 } 
 
-@media only screen and (min-width:400px) and (max-width: 600px) {
+@media only screen and (min-width:374px) and (max-width: 600px) {
  .main_container{
     width: 100vw;
-    height: 210vh; 
+    height: 215vh; 
     background: rgb(228,126,62);
     background: linear-gradient(135deg, rgba(228,126,62,1) 0%, rgba(198,66,54,1) 38%, rgba(182,61,107,1) 82%, rgba(147,33,136,1) 100%);
  }
@@ -282,7 +282,7 @@ p{
 @media only screen and (max-width: 600px) and (min-height: 750px) {
     .main_container{
         width: 100vw;
-        height: 200vh;
+        height: 210vh;
         background: rgb(228,126,62);
         background: linear-gradient(135deg, rgba(228,126,62,1) 0%, rgba(198,66,54,1) 38%, rgba(182,61,107,1) 82%, rgba(147,33,136,1) 100%);
      }
